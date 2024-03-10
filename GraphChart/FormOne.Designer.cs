@@ -334,7 +334,7 @@
          this.GroupBoxEnteringVariables.Size = new System.Drawing.Size(359, 92);
          this.GroupBoxEnteringVariables.TabIndex = 19;
          this.GroupBoxEnteringVariables.TabStop = false;
-         this.GroupBoxEnteringVariables.Text = "Ввод перемннных для функции sin ";
+         this.GroupBoxEnteringVariables.Text = "Ввод переменных для функции sin ";
          // 
          // LabelBracket
          // 
